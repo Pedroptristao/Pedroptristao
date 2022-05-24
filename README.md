@@ -1,5 +1,5 @@
 <div align="center">
-<img src=["https://rishavanand.github.io/static/images/greetings.gif](https://store.hp.com/app/assets/images/uploads/prod/computer-history-timeline-programming-languages1604677346377387.jpg)" align="center" style="width: 100%" />
+<img src="https://store.hp.com/app/assets/images/uploads/prod/computer-history-timeline-programming-languages1604677346377387.jpg" align="center" style="width: 100%" />
 </div>  
   
 
