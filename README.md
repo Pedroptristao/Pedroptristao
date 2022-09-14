@@ -8,8 +8,9 @@
 
 - 📖 I’m currently studying at [Trybe](https://www.betrybe.com/)  
   
+- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS
 
-- 🧠 I’m currently learning React, Redux, Docker, MySQL and much more  
+- 📚 I’m currently learning TypeScript, OOP and Solid 
   
 
 <br/>  
