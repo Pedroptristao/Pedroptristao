@@ -1,30 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Pedro, web development student at Trybe</div>  
+### <div align="center">Welcome I'm Pedro, a Full Stack developer, Welcome!</div>  
   
 
 - 📖 I’m currently studying at [Trybe](https://www.betrybe.com/)  
   
-- 🧠 Proficient in React, Redux, CSS, Docker, MySQL and NodeJS
+- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS and TypeScript
 
-- 📚 I’m currently learning TypeScript, OOP and Solid 
-  
+- 👌🏻 Good understanding of OOP and Solid
 
-<br/>  
+- 📚 I’m currently learning MongoDB
 
-
-## Connect with me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedroptristao/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>  
-  
-
-<br/>  
+- 👨🏻‍💻 I plan to learn Ruby on rails, Flutter and much more in the future!
 
 
 ## Github Stats  
@@ -68,7 +58,18 @@
 
 <br/>  
 
+  <br/>  
+
+
+## Connect with me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedroptristao/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>  
   
+
+<br/>  
 
 <br/>  
 
