@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Welcome I'm Pedro, a Full Stack developer, Welcome!</div>  
+### <div align="center">Hello I'm Pedro, a Full Stack developer, Welcome!</div>  
   
 
 - 📖 I’m currently studying at [Trybe](https://www.betrybe.com/)  
