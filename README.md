@@ -6,7 +6,7 @@
 </div>  
   
 
-- 📖 I’m currently studying at [Trybe](https://www.betrybe.com/)  
+- 📖 I’m currently workin at [UnioIT](https://www.unioit.com/)  
   
 - 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript and MongoDB
 
