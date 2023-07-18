@@ -6,13 +6,13 @@
 </div>  
   
 
-- 📖 I’m currently workin at [UnioIT](https://www.unioit.com/)  
+- 📖 I’m currently working at [UnioIT](https://www.unioit.com/)  
   
-- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript and MongoDB
+- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript, MongoDB and PHP
 
 - 👌🏻 Good understanding of OOP and Solid
 
-- 📚 I’m currently learning php and the laravel framework 
+- 📚 I’m currently learning Wordpress! 
 
 
 ## Github Stats  
