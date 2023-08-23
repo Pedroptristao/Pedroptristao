@@ -8,11 +8,11 @@
 
 - 📖 I’m currently working at [UnioIT](https://www.unioit.com/)  
   
-- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript, MongoDB and PHP
+- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript, MongoDB and PHP | Laravel!
 
-- 👌🏻 Good understanding of OOP and Solid
+- 👌🏻 Good understanding of OOP and Solid!
 
-- 📚 I’m currently learning Wordpress! 
+- 📚 I’m currently learning Go! 
 
 
 ## Github Stats  
