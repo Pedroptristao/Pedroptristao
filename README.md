@@ -10,9 +10,7 @@
   
 - 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript, MongoDB and PHP | Laravel!
 
-- 👌🏻 Good understanding of OOP and Solid!
-
-- 📚 I’m currently learning Go! 
+- 📚 I’m currently learning GoLang! 
 
 
 ## Github Stats  
