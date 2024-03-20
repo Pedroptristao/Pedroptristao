@@ -8,7 +8,7 @@
 
 - 📖 I’m currently working at [UnioIT](https://www.unioit.com/)  
   
-- 🧠 Proficient in React, Redux, CSS, Docker, MySQL, NodeJS, TypeScript, MongoDB and PHP | Frameworks: Laravel, Lumen and Hyperf | Microsservices: Swoole | Streaming Platforms: Kafka!
+- 🧠 Proficient in PHP, JavaScript, Docker, SQL and NoSQL Databases | Frameworks: Laravel, Lumen, Hyperf, React, VueJS, NodeJS | Microsservices: Swoole | Streaming Platforms: Kafka!
 
 - 📚 I’m currently learning GoLang! 
 
