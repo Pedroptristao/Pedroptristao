@@ -5,8 +5,6 @@
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" align="center" style="width: 100%" />
 </div>  
   
-
-- 📖 I’m currently working at [Robbin](https://www.robbin.com.br/)  
   
 - 🧠 Proficient in Golang, PHP, JavaScript, Docker, SQL and NoSQL Databases | Frameworks: Laravel, Lumen, Hyperf, React, VueJS, NodeJS | Microsservices: Swoole | Streaming Platforms: Kafka!
 
